@@ -1,38 +1,4 @@
-/*
-  Template Name: Partsix - Auto Parts & Car Accessories Shop HTML Template
-  Author Name: Hook theme
-  Author URL: https://themeforest.net/user/hooktheme
-  Version: 1.0.0
 
-
-  ----------------------------
-  [Table of contents CSS] 
-  ----------------------------
-  
-  1. slider swiper activation
-  2. product swiper column4 activation
-  3. product swiper column4 style2 activation
-  4. single product nav activation
-  5. product swiper column1 activation
-  6. blog swiper activation
-  7. testimonial swiper activation
-  8. quickview swiper activation
-  9. product details media swiper activation
-  10. testimonial active one activation
-  11. tab activation
-  12. countdown activation
-  13. active class remove class activation
-  14. OffCanvas Sidebar Activation
-  15. Qunatity Button Activation
-  16. Modal JS Activation
-  17. Accordion Activation
-  18. Footer widget Activation
-  19. Flightbox Activation
-  20. CounterUp Activation
-  21. Offcanvas Mobile Menu Function
-  22. Newsletter popup Activation
-
-*/
 
 "use strict";
 
